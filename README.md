@@ -6,7 +6,7 @@ One has to place the files to be updated on the Desktop and rest would be handle
 Some Dependencies have to be installed before running the python script .
 For simplicity One could use Anaconda which comes with most of the modules pre-installed
 
-For Dependencies one could refer to the script and install the modules written against the import statements in the python script.
+For Dependencies one could refer to the script and install the modules written against the import statements in the python script and all of them are very easily available!
 
 One could easily alter the script according to their usage.
 Enjoy...!
